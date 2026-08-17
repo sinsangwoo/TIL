@@ -1,2 +1,5 @@
 # Secret defense-in-depth (see SecondBrain CLAUDE.md appendix D)
 .env*
+
+# Local artifact from the global post-commit graphify hook — never commit here
+graphify-out/
